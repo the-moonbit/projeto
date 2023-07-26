@@ -119,6 +119,7 @@ body {
 
 .apresentacao__links__link:hover {
     background-color: var(--cor-terciaria);
+    color: aliceblue;
 
 }
 
